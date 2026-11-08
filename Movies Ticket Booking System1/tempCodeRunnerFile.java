@@ -1,0 +1,1 @@
+line1 = Files.readAllLines(Paths.get("data\\startpage data.txt")).get(0);
